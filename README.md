@@ -1,3 +1,3 @@
 # Para-spective
 
-WebGL向けコンパイルのみ作成(Windows向けは重くなった)
+[配布先](https://takakatsu.itch.io/para-spective)
